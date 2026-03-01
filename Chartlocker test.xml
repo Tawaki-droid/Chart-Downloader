@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RncProductCatalogChartCatalogs>
+  <Header>
+    <title>Tawaki Chart Downloader</title>
+    <date_created>2026-03-01</date_created>
+    <time_created>22:11:00</time_created>
+  </Header>
+
+  <!-- SOUTH PACIFIC -->
+
+  <chart>
+    <number>Base1</number>
+    <title>Rapa Nui & Pitcairn — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/kqp7eoh7xt5vrom/RapaNui_Pitcarin_etc_TCL2403.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Samoa — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/5yab8t1buo6fj77/Samoas_TCL2403.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <!-- SOLOMON ISLANDS -->
+  <chart>
+    <number>Base1</number>
+    <title>Solomon Islands — ArcGIS</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file/zlmtau9lkk45n84/SP_Solomons_ArcGIS.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Solomon Islands — BingSat</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file/h4hh0pmn92artjo/SP_Solomons_BingSat.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Solomon Islands — GoogleSat</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file/lfqn2ex7kl197o5/SP_Solomons_GoogleSat.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Solomon Islands — Navionics</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file/bsp9l8apokb24lb/SP_Solomons_Navionics.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <!-- TOKELAU -->
+  <chart>
+    <number>Base1</number>
+    <title>Tokelau — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/fy7b2p5z8pb73x1/Tokelau_TCL2403.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <!-- TONGA / NIUE / MINERVA -->
+  <chart>
+    <number>Base1</number>
+    <title>Tonga / Niue / Minerva — ArcGIS</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/8uy8zuhgjhdr94z/Tonga_Niue_Minerva_TCL2403_ArcGIS.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Tonga / Niue / Minerva — BingSat</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/0ud7m5o2a66ml40/Tonga_Niue_Minerva_TCL2403_BingSat.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Tonga / Niue / Minerva — GoogleSat</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/4psbrmkmrmh3ouq/Tonga_Niue_Minerva_TCL2403_GoogleSat.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Tonga / Niue / Minerva — Navionics</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/p8m29cdchck96ev/Tonga_Niue_Minerva_TCL2403_Navionics.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <!-- TUVALU -->
+  <chart>
+    <number>Base1</number>
+    <title>Tuvalu — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/jkcfwps15nu63wy/Tuvalu_TCL2403.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <!-- VANUATU -->
+  <chart>
+    <number>Base1</number>
+    <title>Vanuatu — ArcGIS</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/rolmw0c6n3wnhdn/Vanuatu_TCL2402_ArcGIS_Z13-16%252C18.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Vanuatu — BingSat</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/lfiza27mpwegc0a/Vanuatu_TCL2402_BingSat_Z13-16%252C18.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Vanuatu — GoogleSat</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/s3gfuvhhr92l1c9/Vanuatu_TCL2402_GoogleSat_Z13-16%252C18.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Vanuatu — Navionics</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/t6r60765orhrhm5/Vanuatu_TCL2402_Navionics_Z13-16%252C18.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <!-- WALLIS & FUTUNA -->
+  <chart>
+    <number>Base1</number>
+    <title>Wallis &
