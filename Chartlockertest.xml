@@ -10,7 +10,7 @@
 
   <chart>
     <number>Base1</number>
-    <title>Rapa Nui & Pitcairn — ALL</title>
+    <title>Rapa Nui &amp; Pitcairn — ALL</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.mediafire.com/file_premium/kqp7eoh7xt5vrom/RapaNui_Pitcarin_etc_TCL2403.zip/file</zipfile_location>
     <zipfile_datetime>20260301_221100</zipfile_datetime>
@@ -160,4 +160,11 @@
   <!-- WALLIS & FUTUNA -->
   <chart>
     <number>Base1</number>
-    <title>Wallis &
+    <title>Wallis &amp; Futuna — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.mediafire.com/file_premium/cik2jt1xln9cjg9/Wallis_and_Futuna_TCL2403.zip/file</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+</RncProductCatalogChartCatalogs>
