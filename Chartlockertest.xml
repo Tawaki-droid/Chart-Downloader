@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <RncProductCatalogChartCatalogs>
-  <Header>
-    <title>Tawaki Chart Downloader</title>
-    <date_created>2026-03-01</date_created>
-    <time_created>22:11:00</time_created>
-  </Header>
 
-  <!-- SOUTH PACIFIC -->
+  <!-- ========================= -->
+  <!-- SOUTH PACIFIC (ALL ONLY)  -->
+  <!-- ========================= -->
+
+  <chart>
+    <number>Base1</number>
+    <title>Cook Islands — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_COOK_ISLANDS_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
 
   <chart>
     <number>Base1</number>
     <title>Rapa Nui &amp; Pitcairn — ALL</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/kqp7eoh7xt5vrom/RapaNui_Pitcarin_etc_TCL2403.zip/file</zipfile_location>
+    <zipfile_location>MEDIAFIRE_RAPA_NUI_PITCAIRN_ALL</zipfile_location>
     <zipfile_datetime>20260301_221100</zipfile_datetime>
     <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
   </chart>
@@ -21,150 +27,465 @@
     <number>Base1</number>
     <title>Samoa — ALL</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/5yab8t1buo6fj77/Samoas_TCL2403.zip/file</zipfile_location>
+    <zipfile_location>MEDIAFIRE_SAMOA_ALL</zipfile_location>
     <zipfile_datetime>20260301_221100</zipfile_datetime>
     <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
   </chart>
 
-  <!-- SOLOMON ISLANDS -->
-  <chart>
-    <number>Base1</number>
-    <title>Solomon Islands — ArcGIS</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file/zlmtau9lkk45n84/SP_Solomons_ArcGIS.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <chart>
-    <number>Base1</number>
-    <title>Solomon Islands — BingSat</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file/h4hh0pmn92artjo/SP_Solomons_BingSat.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <chart>
-    <number>Base1</number>
-    <title>Solomon Islands — GoogleSat</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file/lfqn2ex7kl197o5/SP_Solomons_GoogleSat.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <chart>
-    <number>Base1</number>
-    <title>Solomon Islands — Navionics</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file/bsp9l8apokb24lb/SP_Solomons_Navionics.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <!-- TOKELAU -->
   <chart>
     <number>Base1</number>
     <title>Tokelau — ALL</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/fy7b2p5z8pb73x1/Tokelau_TCL2403.zip/file</zipfile_location>
+    <zipfile_location>MEDIAFIRE_TOKELAU_ALL</zipfile_location>
     <zipfile_datetime>20260301_221100</zipfile_datetime>
     <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
   </chart>
 
-  <!-- TONGA / NIUE / MINERVA -->
-  <chart>
-    <number>Base1</number>
-    <title>Tonga / Niue / Minerva — ArcGIS</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/8uy8zuhgjhdr94z/Tonga_Niue_Minerva_TCL2403_ArcGIS.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <chart>
-    <number>Base1</number>
-    <title>Tonga / Niue / Minerva — BingSat</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/0ud7m5o2a66ml40/Tonga_Niue_Minerva_TCL2403_BingSat.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <chart>
-    <number>Base1</number>
-    <title>Tonga / Niue / Minerva — GoogleSat</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/4psbrmkmrmh3ouq/Tonga_Niue_Minerva_TCL2403_GoogleSat.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <chart>
-    <number>Base1</number>
-    <title>Tonga / Niue / Minerva — Navionics</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/p8m29cdchck96ev/Tonga_Niue_Minerva_TCL2403_Navionics.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <!-- TUVALU -->
   <chart>
     <number>Base1</number>
     <title>Tuvalu — ALL</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/jkcfwps15nu63wy/Tuvalu_TCL2403.zip/file</zipfile_location>
+    <zipfile_location>MEDIAFIRE_TUVALU_ALL</zipfile_location>
     <zipfile_datetime>20260301_221100</zipfile_datetime>
     <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
   </chart>
 
-  <!-- VANUATU -->
-  <chart>
-    <number>Base1</number>
-    <title>Vanuatu — ArcGIS</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/rolmw0c6n3wnhdn/Vanuatu_TCL2402_ArcGIS_Z13-16%252C18.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <chart>
-    <number>Base1</number>
-    <title>Vanuatu — BingSat</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/lfiza27mpwegc0a/Vanuatu_TCL2402_BingSat_Z13-16%252C18.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <chart>
-    <number>Base1</number>
-    <title>Vanuatu — GoogleSat</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/s3gfuvhhr92l1c9/Vanuatu_TCL2402_GoogleSat_Z13-16%252C18.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <chart>
-    <number>Base1</number>
-    <title>Vanuatu — Navionics</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/t6r60765orhrhm5/Vanuatu_TCL2402_Navionics_Z13-16%252C18.zip/file</zipfile_location>
-    <zipfile_datetime>20260301_221100</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
-  </chart>
-
-  <!-- WALLIS & FUTUNA -->
   <chart>
     <number>Base1</number>
     <title>Wallis &amp; Futuna — ALL</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.mediafire.com/file_premium/cik2jt1xln9cjg9/Wallis_and_Futuna_TCL2403.zip/file</zipfile_location>
+  <!-- ========================= -->
+  <!-- NEW ZEALAND — ALL BUNDLES -->
+  <!-- ========================= -->
+
+  <chart>
+    <number>Base1</number>
+    <title>New Zealand — North Island — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_NZ_NORTH_ISLAND_ALL</zipfile_location>
     <zipfile_datetime>20260301_221100</zipfile_datetime>
     <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
   </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>New Zealand — South Island — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_NZ_SOUTH_ISLAND_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>New Zealand — Stewart Island — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_NZ_STEWART_ISLAND_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>New Zealand — Chatham Islands — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_NZ_CHATHAM_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>New Zealand — Kermadec Islands — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_NZ_KERMADEC_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <!-- ========================= -->
+  <!-- NORTH PACIFIC — ALL       -->
+  <!-- ========================= -->
+
+  <chart>
+    <number>Base1</number>
+    <title>Kiribati — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_KIRIBATI_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Marshall Islands — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_MARSHALL_ISLANDS_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Micronesia &amp; Palau — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_MICRONESIA_PALAU_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Marianas — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_MARIANAS_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfilefile_datetime_iso8601>
+  </chart>
+
+  <!-- ========================= -->
+  <!-- ASIA / JAPAN — ALL        -->
+  <!-- ========================= -->
+
+  <chart>
+    <number>Base1</number>
+    <title>Japan — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_JAPAN_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Philippines — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_PHILIPPINES_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Taiwan — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_TAIWAN_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Hong Kong — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_HONG_KONG_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>South Korea — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_SOUTH_KOREA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>China — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_CHINA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <!-- ========================= -->
+  <!-- FRENCH POLYNESIA — ALL    -->
+  <!-- ========================= -->
+
+  <chart>
+    <number>Base1</number>
+    <title>French Polynesia — Marquesas — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_FP_MARQUESAS_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>French Polynesia — Tuamotus — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_FP_TUAMOTUS_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>French Polynesia — Society Islands — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_FP_SOCIETY_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>French Polynesia — Gambier — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_FP_GAMBIER_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>French Polynesia — Austral Islands — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_FP_AUSTRAL_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <!-- ========================= -->
+  <!-- CARIBBEAN — ALL           -->
+  <!-- ========================= -->
+
+  <chart>
+    <number>Base1</number>
+    <title>Bahamas — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_BAHAMAS_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Cuba — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_CUBA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Jamaica — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_JAMAICA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Hispaniola (Haiti &amp; Dominican Republic) — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_HISPANIOLA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Puerto Rico &amp; USVI — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_PUERTO_RICO_USVI_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Leeward Islands — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_LEEWARD_ISLANDS_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Windward Islands — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_WINDWARD_ISLANDS_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Trinidad &amp; Tobago — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_TRINIDAD_TOBAGO_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <!-- ================================ -->
+  <!-- MEXICO & CENTRAL AMERICA — ALL   -->
+  <!-- ================================ -->
+
+  <chart>
+    <number>Base1</number>
+    <title>Mexico — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_MEXICO_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Guatemala — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_GUATEMALA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>El Salvador — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_EL_SALVADOR_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Honduras — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_HONDURAS_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Nicaragua — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_NICARAGUA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Costa Rica — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_COSTA_RICA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Panama — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_PANAMA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <!-- =============================================== -->
+  <!-- ATLANTIC ISLANDS / AFRICAN ISLANDS / BRAZIL — ALL -->
+  <!-- =============================================== -->
+
+  <chart>
+    <number>Base1</number>
+    <title>Azores — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_AZORES_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Madeira — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_MADEIRA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Canary Islands — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_CANARY_ISLANDS_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Cape Verde — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_CAPE_VERDE_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>St. Helena — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_ST_HELENA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Ascension Island — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_ASCENSION_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Fernando de Noronha — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_FERNANDO_NORONHA_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <!-- ========================= -->
+  <!-- PACIFIC OVERVIEWS — ALL   -->
+  <!-- ========================= -->
+
+  <chart>
+    <number>Base1</number>
+    <title>Pacific Ocean — West — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_PACIFIC_WEST_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Pacific Ocean — Central — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_PACIFIC_CENTRAL_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+
+  <chart>
+    <number>Base1</number>
+    <title>Pacific Ocean — East — ALL</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>MEDIAFIRE_PACIFIC_EAST_ALL</zipfile_location>
+    <zipfile_datetime>20260301_221100</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-03-01T22:11:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <!-- ========================= -->
+  <!-- END OF CATALOG            -->
+  <!-- ========================= -->
 
 </RncProductCatalogChartCatalogs>
